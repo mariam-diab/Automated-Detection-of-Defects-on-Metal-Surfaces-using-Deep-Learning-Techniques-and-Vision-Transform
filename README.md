@@ -10,8 +10,8 @@ This repository serves as a comprehensive record of all the steps taken to impro
 ## The repository includees:
 - Classification between two defects only using Sigmoid activation 
 - Using of pretrained models to detect a single defect only:
-- - VGG19 
-- - Inception 
+  - VGG19 
+  - Inception 
 - Training the annotations using Inception on single defect
 - Training the annotations on detecting more than one defect in the image using inception
 - Using VIT as a feature extractor instead of the pretained model
