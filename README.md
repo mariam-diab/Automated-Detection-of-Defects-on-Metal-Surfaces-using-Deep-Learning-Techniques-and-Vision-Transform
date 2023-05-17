@@ -2,16 +2,18 @@
 This project utilizes machine and deep learning techniques to automate the detection of defects on metal surfaces in industrial products.
 The goal of this project is to classify various common metal defects.
 
+![inclusion (32)]()
+
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/29299c49-f5e5-44be-ac6a-e05fcb997101" alt="Image 1" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/29299c49-f5e5-44be-ac6a-e05fcb997101" alt="Crease" width="200"/>
     </td>
     <td>
-      <img src="image2.jpg" alt="Image 2" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/714706d8-fa79-4aa9-ba9d-e5abecf07c27 alt="Crescent_gap" width="200"/>
     </td>
     <td>
-      <img src="image3.jpg" alt="Image 3" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/fcd0be2d-31e3-46fc-b985-9adc4debda45" alt="Inclusion" width="200"/>
     </td>
   </tr>
   <tr>
