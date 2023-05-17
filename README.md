@@ -8,8 +8,9 @@ The goal of this project is to classify various common metal defects such as: cr
 
 This repository serves as a comprehensive record of all the steps taken to improve the accuracy of the system. 
 ## The repository includees:
-- Classification between two defects only using Sigmoid activation 
-- Classification among 10 defect classes using Sigmoid activation
+- Categorical classification between two classes using Sigmoid activation
+- Categorical classification among 10 defect classes using softmax 
+- Categorical classification among 10 defect classes using Inception and softmax
 - Using of pretrained models to detect a single defect only:
   - VGG19 
   - Inception 
