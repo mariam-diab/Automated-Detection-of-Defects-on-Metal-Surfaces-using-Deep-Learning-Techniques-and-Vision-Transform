@@ -23,14 +23,14 @@ The table shows the types of defects we're working om
         <div align="center"> <figcaption>Inclusion</figcaption> </div>
         </figure>
       </td>
-    </tr>
-    <tr>
       <td>
        <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/e1af9fc7-984c-4215-bc7c-01642ac2abc8" alt="Oil_spot"  height =200 width="200"/>
         <div align="center"> <figcaption>Oil Spot</figcaption> </div>
         </figure>
       </td>
+     </tr>
+    <tr>
       <td>
         <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/b4461799-cf30-411e-81c3-0d18fe1560a0" alt="Punching_hole"  height =200 width="200"/>
@@ -43,8 +43,6 @@ The table shows the types of defects we're working om
         <div align="center"> <figcaption>Rolled in Scale</figcaption> </div>
         </figure>
       </td>
-    </tr>
-    <tr>
       <td>
         <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/0f7f11d0-c5a0-40b7-9ca0-6714991c0588" alt="rolled_pit"  height =200 width="200"/>
@@ -57,14 +55,14 @@ The table shows the types of defects we're working om
         <div align="center"> <figcaption>Scratches</figcaption> </div>
         </figure>
       </td>
+     </tr>
+    <tr>
       <td> 
          <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/eaf64849-0a30-4bdc-b734-f2223e3266c9" alt="silk spot"  height =200 width="200"/>
         <div align="center"> <figcaption>Silk spot</figcaption> </div>
         </figure>
       </td>
-    </tr>
-    <tr>
       <td>
         <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/24221c85-7876-4e2a-bd3b-d25ef86aacfb" alt="waist_folding"  height =200 width="200"/>
