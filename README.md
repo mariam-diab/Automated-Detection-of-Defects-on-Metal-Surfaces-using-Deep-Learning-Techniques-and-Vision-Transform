@@ -7,7 +7,6 @@ The table shows the types of defects we're working om
   <tr>
     <td>
       <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/29299c49-f5e5-44be-ac6a-e05fcb997101" alt="Crease" width="200"/>
-     
     </td>
     <td>
       <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/714706d8-fa79-4aa9-ba9d-e5abecf07c27 alt="Crescent_gap" width="200"/>
