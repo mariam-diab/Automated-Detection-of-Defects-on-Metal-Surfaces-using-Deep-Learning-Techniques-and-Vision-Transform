@@ -31,8 +31,10 @@ The goal of this project is to classify various common metal defects.
     <td>                               
       <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/0f7f11d0-c5a0-40b7-9ca0-6714991c0588" alt="rolled_pit" width="200"/>
     </td>
+    <td> 
       <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/61b83e8c-d458-4375-9561-91872af63b39" alt="scratches" width="200"/>
     </td>
+    <td> 
       <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/eaf64849-0a30-4bdc-b734-f2223e3266c9" alt="silk spot" width="200"/>
     </td>
   </tr>
