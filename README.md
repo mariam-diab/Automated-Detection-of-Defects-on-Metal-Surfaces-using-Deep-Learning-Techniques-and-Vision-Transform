@@ -10,7 +10,7 @@ This repository serves as a comprehensive record of all the steps taken to impro
 ## The repository includees:
 - Categorical classification between two classes using Sigmoid activation
 - Categorical classification among 10 defect classes using softmax 
-- Categorical classification among 10 defect classes using Inception and softmax
+- Categorical classification among 10 defect classes using Inception and SGD
 - Using of pretrained models to detect a single defect only:
   - VGG19 
   - Inception 
