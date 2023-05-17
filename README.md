@@ -2,8 +2,6 @@
 This project utilizes machine and deep learning techniques to automate the detection of defects on metal surfaces in industrial products.
 The goal of this project is to classify various common metal defects.
 
-![inclusion (32)]()
-
 <table>
   <tr>
     <td>
