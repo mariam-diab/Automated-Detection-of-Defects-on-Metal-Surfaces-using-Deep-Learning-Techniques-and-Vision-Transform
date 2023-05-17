@@ -1,10 +1,53 @@
 # Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques
 This project utilizes machine and deep learning techniques to automate the detection of defects on metal surfaces in industrial products.
-The goal of this project is to classify various common metal defects such as: crescent gap 
-<figure>
-  <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/9a1b6c1d-77a7-481d-ad9b-6e3609b31500" width="200" height="200" alt="Defect on a metal surface">
-  <figcaption></figcaption>
-</figure>
+The goal of this project is to classify various common metal defects.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/29299c49-f5e5-44be-ac6a-e05fcb997101" alt="Image 1" width="200"/>
+    </td>
+    <td>
+      <img src="image2.jpg" alt="Image 2" width="200"/>
+    </td>
+    <td>
+      <img src="image3.jpg" alt="Image 3" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="image4.jpg" alt="Image 4" width="200"/>
+    </td>
+    <td>
+      <img src="image5.jpg" alt="Image 5" width="200"/>
+    </td>
+    <td>
+      <img src="image6.jpg" alt="Image 6" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="image7.jpg" alt="Image 7" width="200"/>
+    </td>
+    <td>
+      <img src="image8.jpg" alt="Image 8" width="200"/>
+    </td>
+    <td>
+      <img src="image9.jpg" alt="Image 9" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="image10.jpg" alt="Image 10" width="200"/>
+    </td>
+    <td>
+      <img src="image11.jpg" alt="Image 11" width="200"/>
+    </td>
+    <td>
+      <img src="image12.jpg" alt="Image 12" width="200"/>
+    </td>
+  </tr>
+</table>
 
 This repository serves as a comprehensive record of all the steps taken to improve the accuracy of the system. 
 ## The repository includees:
