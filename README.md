@@ -18,35 +18,33 @@ The goal of this project is to classify various common metal defects.
   </tr>
   <tr>
     <td>
-      <img src="image4.jpg" alt="Image 4" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/e1af9fc7-984c-4215-bc7c-01642ac2abc8" alt="Oil_spot" width="200"/>
+    </td>
+    <td>          
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/b4461799-cf30-411e-81c3-0d18fe1560a0" alt="Punching_hole" width="200"/>
     </td>
     <td>
-      <img src="image5.jpg" alt="Image 5" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/1d78b86d-5048-4017-97f9-2842710126f3" alt="rolled_in_scale" width="200"/>
     </td>
-    <td>
-      <img src="image6.jpg" alt="Image 6" width="200"/>
+  </tr>
+  <tr>
+    <td>                               
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/0f7f11d0-c5a0-40b7-9ca0-6714991c0588" alt="rolled_pit" width="200"/>
+    </td>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/61b83e8c-d458-4375-9561-91872af63b39" alt="scratches" width="200"/>
+    </td>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/eaf64849-0a30-4bdc-b734-f2223e3266c9" alt="silk spot" width="200"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="image7.jpg" alt="Image 7" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/24221c85-7876-4e2a-bd3b-d25ef86aacfb" alt="waist_folding" width="200"/>
     </td>
     <td>
-      <img src="image8.jpg" alt="Image 8" width="200"/>
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/d8d7138b-47d9-469b-b5bf-7ace5ab1c7d3" alt="water_spot" width="200"/>
     </td>
-    <td>
-      <img src="image9.jpg" alt="Image 9" width="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="image10.jpg" alt="Image 10" width="200"/>
-    </td>
-    <td>
-      <img src="image11.jpg" alt="Image 11" width="200"/>
-    </td>
-    <td>
-      <img src="image12.jpg" alt="Image 12" width="200"/>
+    <td>           
+      <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques/assets/90696437/5e50bfe1-091a-479e-a674-c5304385368c" alt="welding_line" width="200"/>
     </td>
   </tr>
 </table>
