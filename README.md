@@ -2,7 +2,7 @@
 This project utilizes machine and deep learning techniques to automate the detection of defects on metal surfaces in industrial products.
 The goal of this project is to classify various common metal defects.
 The dataset can be found here https://www.kaggle.com/datasets/toqaalaaawad/metal-surfaces-defects
-The table shows the types of defects we're working om
+The table shows the types of defects we're working on
 <div align="center">
   <table>
     <tr>
