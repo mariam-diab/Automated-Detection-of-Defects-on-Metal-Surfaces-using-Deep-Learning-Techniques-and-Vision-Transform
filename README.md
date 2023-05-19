@@ -86,16 +86,35 @@ The table shows the types of defects we're working on
   </table>
 </div>
 
-This repository serves as a comprehensive record of all the steps taken to improve the accuracy of the system. 
-## The repository includees:
-- Categorical classification between two classes using Sigmoid activation
-- Categorical classification among 10 defect classes using softmax 
-- Categorical classification among 10 defect classes using Inception and SGD
-- Using of pretrained models to detect a single defect only:
-  - VGG19 
-  - Inception 
-- Training the annotations using Inception on single defect
-- Training the annotations on detecting more than one defect in the image using inception
-- Using VIT as a feature extractor instead of the pretained model
+This repository serves as a comprehensive record of all the steps taken to improve the accuracy of the system.  
+                           
+## The repository includes the following:
+- Categorical classification between two classes using Sigmoid activation.
+- Categorical classification among 10 defect classes using a custom CNN model with softmax.
+- Categorical classification among 10 defect classes using Inception and SGD.
+- Categorical classification among 11 defect classes using a custom CNN model with softmax.
+- Categorical classification among 11 defect classes using Inception and SGD.
+- Single detection of a defect by training the Inception model on the image annotations.
+- Multiple detection of defects by training the Inception model on the image annotations.
+- Using VIT as a feature extractor instead of the pretrained model.
+
+# Summary of the most promising resutls:
+## Single detection of a defect by training the Inception model on the image annotations.  
+# The model architecture:
+ <div align="center">
+ <figure>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/a380ab8f-bcef-4fa0-996c-9b3f60f037c9" alt="Single defect"  height =900 width="700"/>
+        <div align="center"> <figcaption>Single defect detection model architecture </figcaption> </div>
+        </figure>
+</div>          
+                           
+# The model results:
+ <div align="center">
+ <figure>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/666072bb-e768-4371-88c0-6c4b82d08ae2" alt="Single defect"  height =400 width="500"/>
+        <div align="center"> <figcaption>The accuracy and the validation metrics </figcaption> </div>
+        </figure>
+</div>          
+
 
 
