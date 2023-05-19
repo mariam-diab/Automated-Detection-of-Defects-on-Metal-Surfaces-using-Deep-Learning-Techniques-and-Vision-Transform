@@ -101,8 +101,8 @@ This repository serves as a comprehensive record of all the steps taken to impro
 # Summary of the most promising results:
                            
                            
-## Multiple detection of defects:
-# The model architecture:
+# Multiple detection of defects:
+## The model architecture:
  <div align="center">
 
  <figure>
@@ -111,7 +111,7 @@ This repository serves as a comprehensive record of all the steps taken to impro
         </figure>
 </div>  
                            
-# The model results:
+## The model results:
  <div align="center">
  <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/f174a669-9b1f-45bc-9f39-5eeb79ce1974" alt="Single defect"  height =400 width="500"/>
@@ -119,8 +119,8 @@ This repository serves as a comprehensive record of all the steps taken to impro
         </figure>
 </div>          
 
-## Single detection of a defect:
-# The model architecture:
+# Single detection of a defect:
+## The model architecture:
  <div align="center">
  <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/a380ab8f-bcef-4fa0-996c-9b3f60f037c9" alt="Single defect"  height =900 width="700"/>
@@ -128,7 +128,7 @@ This repository serves as a comprehensive record of all the steps taken to impro
         </figure>
 </div>          
                            
-# The model results:
+## The model results:
  <div align="center">
  <figure>
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/666072bb-e768-4371-88c0-6c4b82d08ae2" alt="Single defect"  height =400 width="500"/>
