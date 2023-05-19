@@ -98,8 +98,27 @@ This repository serves as a comprehensive record of all the steps taken to impro
 - Multiple detection of defects by training the Inception model on the image annotations.
 - Using VIT as a feature extractor instead of the pretrained model.
 
-# Summary of the most promising resutls:
-## Single detection of a defect by training the Inception model on the image annotations.  
+# Summary of the most promising results:
+                           
+                           
+## Multiple detection of defects:
+# The model architecture:
+ <div align="center">
+
+ <figure>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/66d980b7-86c0-4ac1-ac2e-d01a6b854b04" alt="Single defect"  height =900 width="700"/>
+        <div align="center"> <figcaption>Multiple defect detection model architecture </figcaption> </div>
+        </figure>
+</div>          
+# The model results:
+ <div align="center">
+ <figure>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/f174a669-9b1f-45bc-9f39-5eeb79ce1974" alt="Single defect"  height =400 width="500"/>
+        <div align="center"> <figcaption>The accuracy and the validation metrics </figcaption> </div>
+        </figure>
+</div>          
+
+## Single detection of a defect:
 # The model architecture:
  <div align="center">
  <figure>
