@@ -109,7 +109,8 @@ This repository serves as a comprehensive record of all the steps taken to impro
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/66d980b7-86c0-4ac1-ac2e-d01a6b854b04" alt="Single defect"  height =900 width="700"/>
         <div align="center"> <figcaption>Multiple defect detection model architecture </figcaption> </div>
         </figure>
-</div>          
+</div>  
+                           
 # The model results:
  <div align="center">
  <figure>
