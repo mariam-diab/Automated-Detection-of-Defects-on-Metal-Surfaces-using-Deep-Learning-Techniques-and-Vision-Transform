@@ -1,4 +1,4 @@
-# Automated-Detection-of-Defects-on-Metal-Surfaces-using-Machine-and-Deep-Learning-Techniques
+# Automated Detection of Defects on Metal Surfaces using Deep Learning Techniques and Vision Transform
 This project utilizes machine and deep learning techniques to automate the detection of defects on metal surfaces in industrial products.
 The goal of this project is to classify various common metal defects.
 The dataset can be found here https://www.kaggle.com/datasets/toqaalaaawad/metal-surfaces-defects  
