@@ -134,13 +134,15 @@ This repository serves as a comprehensive record of all the steps taken to impro
         <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/666072bb-e768-4371-88c0-6c4b82d08ae2" alt="Single defect"  height =400 width="500"/>
         <div align="center"> <figcaption>The accuracy and the validation metrics </figcaption> </div>
         </figure>
-</div>      
+</div>   
+                           
+                           
 # Single detection of a defect using custom CNN model
                            
 ## The model architecture:
  <div align="center">
  <figure>
-        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/9595c6d2-f88e-495f-94c3-c4febf16008e" alt="Single defect"  height =1600 width="800"/>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/9595c6d2-f88e-495f-94c3-c4febf16008e" alt="Single defect"  height =1500 width="600"/>
         <div align="center"> <figcaption>Multiple defect detection model architecture </figcaption> </div>
         </figure>
 </div>  
