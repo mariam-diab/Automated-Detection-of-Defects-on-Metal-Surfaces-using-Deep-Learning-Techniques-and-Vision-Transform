@@ -119,7 +119,7 @@ This repository serves as a comprehensive record of all the steps taken to impro
         </figure>
 </div>          
 
-# Single detection of a defect using inception::
+# Single detection of a defect using inception (Trained on annotations):
 ## The model architecture:
  <div align="center">
  <figure>
@@ -156,5 +156,22 @@ This repository serves as a comprehensive record of all the steps taken to impro
 </div>          
 
 
+# Single detection of a defect using Inception with SVM:
+                           
+## The model architecture:
+ <div align="center">
+ <figure>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/387fe5e5-639c-41cf-850f-ad8fbcc73b3a" alt="Single defect"  height =400 width="800"/>
+        <div align="center"> <figcaption>Multiple defect detection model architecture </figcaption> </div>
+        </figure>
+</div>  
+                           
+## The model results:
+ <div align="center">
+ <figure>
+        <img src="https://github.com/toqaalaa20/Automated-Detection-of-Defects-on-Metal-Surfaces-using-Deep-Learning-Techniques-and-Vision-Transform/assets/90696437/2b7e7598-f24b-4aed-a5f2-df80dca7c3d7" alt="Single defect"  height =500 width="800"/>
+        <div align="center"> <figcaption>The accuracy and the validation metrics </figcaption> </div>
+        </figure>
+</div>          
 
 
